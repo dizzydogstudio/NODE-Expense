@@ -1,0 +1,111 @@
+# Privacy Policy  
+**App Name:** Node Expense: Track Together  
+**Platform:** iOS  
+**Last Updated:** 2026-02-24 
+
+## 1. Overview  
+Node Expense: Track Together (“we”, “our”, “the app”) respects your privacy. This Privacy Policy explains what data we collect, how it is used, and what choices you have when using the app.
+
+## 2. Data We Collect  
+
+### 2.1 Information You Provide  
+- Expense records (amounts, notes, categories)  
+- Group data (group name, members, settings)  
+- Group expenses and settlements
+- Display name (used to identify you in shared groups)  
+- Optional location data (only if you enable it)  
+- Calendar access (only to the calendars you select)
+
+### 2.2 Automatically Collected Data  
+- Anonymous usage analytics (via Firebase Analytics) 
+- Crash logs and diagnostics  
+- Device and app performance information
+- Push notification tokens — only when notifications are enabled  
+
+This data is used only to improve stability, performance, and user experience.
+
+### 2.3 Subscriptions & Payments  
+Purchases and subscriptions are processed by Apple and RevenueCat. We do not receive your credit card or payment details. RevenueCat stores anonymous subscriber identifiers to manage your subscription status and free trial period.
+
+## 3. Third-Party Services  
+We use the following third-party services:
+ 
+- RevenueCat — Subscription and in-app purchase management, including free trial tracking
+- Google AdMob — Rewarded and interstitial advertisements
+- Firebase Analytics — Anonymous usage analytics
+- Firebase Firestore — Group data syncing (expenses, members, settlements, deletion requests)
+- Firebase Cloud Functions — Background tasks including group deletion and push notification delivery
+- Firebase Cloud Messaging (FCM) — Push notifications for group activity
+
+Firebase is used as a sync layer for group-related features only. Personal (non-group) expense data is not uploaded to cloud services.
+
+## 4. Ads  
+The app may show rewarded ads and interstitial ads to free-tier users. Ad providers may collect anonymous identifiers to serve relevant ads and measure performance. Rewarded ads are optional and can unlock additional monthly expense slots. Interstitial ads may be shown when you reach your monthly expense limit.
+
+## 5. Location Data  
+Location data is optional and only collected if you explicitly enable it in Settings for expense tracking. When enabled, your location is recorded with new expenses. Location data is stored locally on your device and is not uploaded to cloud services. You can disable location access at any time in your iOS Settings.
+
+## 6. Calendar Access  
+The app only accesses the calendars you select. Calendar access is used solely to display and sync expense entries as calendar events. Calendar data is never shared with third parties.
+
+## 7. Data Storage, Retention & Encryption  
+
+### 7.1 On-Device Storage  
+The following data is stored locally on your device using SwiftData (Apple's secure local storage framework):
+- Personal (non-group) expense records
+- App settings and preferences
+- Local copies of group data for offline access
+- Cached group expenses for offline viewing
+
+Personal (non-group) expense data never leaves your device unless you explicitly export or back it up. Expenses from deleted groups are retained locally on your device with a 'deleted group' marker, so your records are preserved.
+
+### 7.2 Cloud Storage for Group Features  
+For group features, selected data is synced to Firebase Firestore so all group members can see the same information:
+
+- Group documents (name, description, icon, members, permissions, share code)
+- Group expenses (amount, category, note, date, location if enabled, payer identity)
+- Group settlements (payment records between members)
+- Group deletion requests and member votes
+- Trial start dates (used for reinstall recovery)
+- Push notification tokens (FCM) 
+
+Cloud sync is used only for group features. Individual personal expenses are never uploaded.
+
+### 7.3 Encryption & Backups
+- Users with feature access (PRO subscription or active free trial) may enable encrypted backups using AES-256-GCM encryption.
+- You control how long expense records are retained (all time or a limited number of years).
+- Encryption keys are generated on your device and stored securely in your iPhone's Keychain (accessible via the iOS Passwords app).
+- Backup files are exported to a location you choose (iCloud Drive, On My Device, or other iOS Files locations).
+- We do not have access to your backup files or encryption keys.
+
+## 8. Data Migration  
+Users with feature access (PRO subscription or active free trial) may export and import their data in JSON format. Export files may optionally be encrypted using AES-256-GCM. We do not have access to your exported files. Imported data is stored locally on your device.
+
+## 9. Data Deletion 
+You can delete your data in the following ways:
+- Delete individual or all personal expenses from within the app
+- Leave or request deletion of a group — group data is removed from Firebase when all members agree
+- Group expenses marked as 'keep on deletion' remain on your device locally with a deleted-group marker; they are not re-uploaded
+- Uninstalling the app removes all locally stored data from your device
+
+Note: Firebase group data (expenses, settlements, member records) may persist until the group is formally deleted through the in-app deletion flow.
+
+## 10. Children’s Privacy  
+This app is not intended for children under 13. We do not knowingly collect personal data from children under 13. If you believe a child has provided personal information, please contact us.
+
+## 11. Your Rights  
+You can:  
+- Disable location access in iOS Settings
+- Revoke calendar access in iOS Settings
+- Delete your local expense data within the app
+- Export your data before deleting
+- Request group deletion (removes group data from Firebase for all members)
+- Cancel your subscription at any time through Apple App Store settings
+- Stop using backups or encrypted exports at any time
+
+## 12. Changes to This Policy  
+We may update this Privacy Policy from time to time. Changes will be reflected by the "Last Updated" date at the top of this document. Continued use of the app after changes constitutes acceptance of the updated policy.
+
+## 13. Contact  
+If you have questions about this Privacy Policy or your data, please contact:
+**Email:** thedizzydogstudio@gmail.com
