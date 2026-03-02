@@ -4,3 +4,4 @@ Welcome to the official legal documentation for Node Expense: Track Together. Pl
 
 * [Privacy Policy](./privacy.md)
 * [Terms and Conditions](./terms.md)
+* [Support](./Support.md)
