@@ -61,6 +61,12 @@
 ****
 
 <p align="center">
+  <img width="394" height="185" alt="Widget" src="https://github.com/user-attachments/assets/a87971f5-54d5-43f2-bbda-7cf7c29802e0" />
+</p>
+
+****
+
+<p align="center">
   <img width="1242" height="2688" alt="10  Apple Review - Node Expense" src="https://github.com/user-attachments/assets/c72bcfe1-75cc-4830-8217-aac4ab5dd002" />
 </p>
 
