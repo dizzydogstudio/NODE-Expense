@@ -1,10 +1,10 @@
 # Privacy Policy  
 **App Name:** Node Expense: Track Together  
 **Platform:** iOS  
-**Last Updated:** 2026-02-24 
+**Last Updated:** 2026-03-02
 
 ## 1. Overview  
-Node Expense: Track Together (“we”, “our”, “the app”) respects your privacy. This Privacy Policy explains what data we collect, how it is used, and what choices you have when using the app.
+Node Expense: Track Together (“we”, “our”) respects your privacy. This Privacy Policy explains what data Node Expense collects, how it is used, and what choices you have when using Node Expense.
 
 ## 2. Data We Collect  
 
@@ -22,13 +22,13 @@ Node Expense: Track Together (“we”, “our”, “the app”) respects your 
 - Device and app performance information
 - Push notification tokens — only when notifications are enabled  
 
-This data is used only to improve stability, performance, and user experience.
+This data is used only to improve the stability, performance, and user experience of Node Expense.
 
 ### 2.3 Subscriptions & Payments  
 Purchases and subscriptions are processed by Apple and RevenueCat. We do not receive your credit card or payment details. RevenueCat stores anonymous subscriber identifiers to manage your subscription status and free trial period.
 
 ## 3. Third-Party Services  
-We use the following third-party services:
+Node Expense uses the following third-party services:
  
 - RevenueCat — Subscription and in-app purchase management, including free trial tracking
 - Google AdMob — Rewarded and interstitial advertisements
@@ -40,13 +40,13 @@ We use the following third-party services:
 Firebase is used as a sync layer for group-related features only. Personal (non-group) expense data is not uploaded to cloud services.
 
 ## 4. Ads  
-The app may show rewarded ads and interstitial ads to free-tier users. Ad providers may collect anonymous identifiers to serve relevant ads and measure performance. Rewarded ads are optional and can unlock additional monthly expense slots. Interstitial ads may be shown when you reach your monthly expense limit.
+Node Expense may show rewarded ads and interstitial ads to free-tier users. Ad providers may collect anonymous identifiers to serve relevant ads and measure performance. Rewarded ads are optional and can unlock additional monthly expense slots. Interstitial ads may be shown when you reach your monthly expense limit.
 
 ## 5. Location Data  
 Location data is optional and only collected if you explicitly enable it in Settings for expense tracking. When enabled, your location is recorded with new expenses. Location data is stored locally on your device and is not uploaded to cloud services. You can disable location access at any time in your iOS Settings.
 
 ## 6. Calendar Access  
-The app only accesses the calendars you select. Calendar access is used solely to display and sync expense entries as calendar events. Calendar data is never shared with third parties.
+Node Expense only accesses the calendars you select. Calendar access is used solely to display and sync expense entries as calendar events. Calendar data is never shared with third parties.
 
 ## 7. Data Storage, Retention & Encryption  
 
@@ -76,35 +76,35 @@ Cloud sync is used only for group features. Individual personal expenses are nev
 - You control how long expense records are retained (all time or a limited number of years).
 - Encryption keys are generated on your device and stored securely in your iPhone's Keychain (accessible via the iOS Passwords app).
 - Backup files are exported to a location you choose (iCloud Drive, On My Device, or other iOS Files locations).
-- We do not have access to your backup files or encryption keys.
+- Node Expense does not have access to your backup files or encryption keys.
 
 ## 8. Data Migration  
-Users with feature access (PRO subscription or active free trial) may export and import their data in JSON format. Export files may optionally be encrypted using AES-256-GCM. We do not have access to your exported files. Imported data is stored locally on your device.
+Users with feature access (PRO subscription or active free trial) may export and import their data in JSON format. Export files may optionally be encrypted using AES-256-GCM. Node Expense does not have access to your exported files. Imported data is stored locally on your device.
 
 ## 9. Data Deletion 
 You can delete your data in the following ways:
-- Delete individual or all personal expenses from within the app
+- Delete individual or all personal expenses from within Node Expense
 - Leave or request deletion of a group — group data is removed from Firebase when all members agree
 - Group expenses marked as 'keep on deletion' remain on your device locally with a deleted-group marker; they are not re-uploaded
-- Uninstalling the app removes all locally stored data from your device
+- Uninstalling Node Expense removes all locally stored data from your device
 
 Note: Firebase group data (expenses, settlements, member records) may persist until the group is formally deleted through the in-app deletion flow.
 
 ## 10. Children’s Privacy  
-This app is not intended for children under 13. We do not knowingly collect personal data from children under 13. If you believe a child has provided personal information, please contact us.
+Node Expense is not intended for children under 13. We do not knowingly collect personal data from children under 13. If you believe a child has provided personal information, please contact us.
 
 ## 11. Your Rights  
 You can:  
 - Disable location access in iOS Settings
 - Revoke calendar access in iOS Settings
-- Delete your local expense data within the app
+- Delete your local expense data within Node Expense
 - Export your data before deleting
 - Request group deletion (removes group data from Firebase for all members)
 - Cancel your subscription at any time through Apple App Store settings
 - Stop using backups or encrypted exports at any time
 
 ## 12. Changes to This Policy  
-We may update this Privacy Policy from time to time. Changes will be reflected by the "Last Updated" date at the top of this document. Continued use of the app after changes constitutes acceptance of the updated policy.
+We may update this Privacy Policy from time to time. Changes will be reflected by the "Last Updated" date at the top of this document. Continued use of Node Expense after changes constitutes acceptance of the updated policy.
 
 ## 13. Contact  
 If you have questions about this Privacy Policy or your data, please contact:
