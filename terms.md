@@ -1,7 +1,7 @@
 # Terms of Service  
 **App Name:** Node Expense: Track Together  
 **Platform:** iOS  
-**Last Updated:** 2026-02-24  
+**Last Updated:** 2026-03-03  
 
 ## 1. Acceptance of Terms  
 By downloading, installing, or using Node Expense: Track Together, you agree to be bound by these Terms of Service. If you do not agree, do not use the app.
@@ -35,7 +35,7 @@ PRO subscribers receive unlimited access to:
 - Group Expenses — create and join groups, split bills, record settlements
 - Data Retention — automatic retention policies with optional AES-256-GCM encrypted backups
 - Data Migration — export and import data in JSON format
-- No rewarded or interstitial ads 
+- No banner, rewarded or interstitial ads 
 
 Subscriptions renew automatically unless canceled via Apple App Store Settings at least 24 hours before the end of the current billing period.
 
@@ -52,6 +52,7 @@ Group expenses are synced in real time across all members' devices via Firebase.
 ## 5. Advertisements
 The free tier of the app may display:
 
+- Banner ads - users may see static or animated rectangular ad units that appear at the bottom of the screen while interacting with the App
 - Rewarded ads — optional; watching unlocks up to 5 additional monthly expense slots
 - Interstitial ads — shown when you reach your monthly expense limit (once per app session)
 
