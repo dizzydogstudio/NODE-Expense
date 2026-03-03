@@ -38,7 +38,7 @@
 ****
 
 <p align="center">
-  <img width="1260" height="2736" alt="7  Calendar" src="https://github.com/user-attachments/assets/15a84e9f-a5b2-49aa-9490-d24a102a8a15" />
+  <img width="1260" height="2736" alt="7  Calendar png" src="https://github.com/user-attachments/assets/b7e2b323-7f59-43af-b9ec-caca392e0b70" />
 </p>
 
 ****
