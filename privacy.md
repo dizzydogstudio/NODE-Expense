@@ -1,7 +1,7 @@
 # Privacy Policy  
 **App Name:** Node Expense: Track Together  
 **Platform:** iOS  
-**Last Updated:** 2026-03-02
+**Last Updated:** 2026-03-03
 
 ## 1. Overview  
 Node Expense: Track Together (“we”, “our”) respects your privacy. This Privacy Policy explains what data Node Expense collects, how it is used, and what choices you have when using Node Expense.
@@ -74,7 +74,7 @@ Cloud sync is used only for group features. Individual personal expenses are nev
 ### 7.3 Encryption & Backups
 - Users with feature access (PRO subscription or active free trial) may enable encrypted backups using AES-256-GCM encryption.
 - You control how long expense records are retained (all time or a limited number of years).
-- Encryption keys are generated on your device and stored securely in your iPhone's Keychain (accessible via the iOS Passwords app).
+- Backup encryption keys are generated locally and stored exclusively in the device's Keychain. These keys are not transmitted to our servers, synced to iCloud, or shared with any third party. As a result, encrypted backups cannot be decrypted on another device.
 - Backup files are exported to a location you choose (iCloud Drive, On My Device, or other iOS Files locations).
 - Node Expense does not have access to your backup files or encryption keys.
 
