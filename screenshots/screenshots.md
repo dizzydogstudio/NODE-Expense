@@ -1,55 +1,40 @@
 
 
 
-
-
-
-
-<img width="1260" height="2736" alt="6  Group Charts" src="https://github.com/user-attachments/assets/61437b10-727c-4d05-8ae7-93bc68dd7165" />
-<img width="1260" height="2736" alt="5  Buddget Planning" src="https://github.com/user-attachments/assets/f68037b0-5f68-4480-922d-ef316d4e3042" />
-<img width="1260" height="2736" alt="4  Recurring Bills" src="https://github.com/user-attachments/assets/e9ae92da-05c9-49ff-ae4c-a7d2f6dac21e" />
-<img width="1260" height="2736" alt="3  Record a payment" src="https://github.com/user-attachments/assets/f8482740-76ed-443b-a1bc-df56343127b9" />
-<img width="1260" height="2736" alt="2  Split Bill" src="https://github.com/user-attachments/assets/39a05c46-265c-4d12-88d5-baf731a74a0b" />
-<img width="1260" height="2736" alt="1  Group Summary" src="https://github.com/user-attachments/assets/d7e7b0f4-7c5d-4a66-969d-438073dda81c" />
-
-
-
-
-
 ****
 
 <p align="center">
-  <img width="1260" height="2736" alt="1  Group Summary" src="https://github.com/user-attachments/assets/d4596228-f4b6-4769-b103-9e5449cf990b" />
+  <img width="1260" height="2736" alt="1  Group Summary" src="https://github.com/user-attachments/assets/d7e7b0f4-7c5d-4a66-969d-438073dda81c" />
 </p>
 
 ****
 
 <p align="center">
-  <img width="1260" height="2736" alt="1 1 Split Bill" src="https://github.com/user-attachments/assets/1bf368aa-24c2-4b3f-b812-1e3a65ba942d" />
+  <img width="1260" height="2736" alt="2  Split Bill" src="https://github.com/user-attachments/assets/39a05c46-265c-4d12-88d5-baf731a74a0b" />
 </p>
 
 ****
 
 <p align="center">
-  <img width="1260" height="2736" alt="1 2 Recurring Bills" src="https://github.com/user-attachments/assets/e1b928b6-9ec8-4484-a529-c93016a542f6" />
+  <img width="1260" height="2736" alt="3  Record a payment" src="https://github.com/user-attachments/assets/f8482740-76ed-443b-a1bc-df56343127b9" />
 </p>
 
 ****
 
 <p align="center">
-  <img width="1260" height="2736" alt="2  Group Charts" src="https://github.com/user-attachments/assets/2d2a2255-3a05-48dd-a638-0ce4744ca2d0" />
+  <img width="1260" height="2736" alt="4  Recurring Bills" src="https://github.com/user-attachments/assets/e9ae92da-05c9-49ff-ae4c-a7d2f6dac21e" />
 </p>
 
 ****
 
 <p align="center">
-  <img width="1260" height="2736" alt="3  Calendar" src="https://github.com/user-attachments/assets/9e55cd98-8e22-4ebb-8370-f16d73466a1f" />
+  <img width="1260" height="2736" alt="5  Buddget Planning" src="https://github.com/user-attachments/assets/f68037b0-5f68-4480-922d-ef316d4e3042" />
 </p>
 
 ****
 
 <p align="center">
-  <img width="1260" height="2736" alt="4  Record a payment" src="https://github.com/user-attachments/assets/44f738fb-43a6-43fb-bea0-c197963a1935" />
+  <img width="1260" height="2736" alt="6  Group Charts" src="https://github.com/user-attachments/assets/61437b10-727c-4d05-8ae7-93bc68dd7165" />
 </p>
 
 ****
