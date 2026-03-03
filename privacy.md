@@ -17,7 +17,8 @@ Node Expense: Track Together (“we”, “our”) respects your privacy. This P
 - Calendar access (only to the calendars you select)
 
 ### 2.2 Automatically Collected Data  
-- Anonymous usage analytics (via Firebase Analytics) 
+- Anonymous usage analytics (via Firebase Analytics)
+- Anonymous device identifier — used to maintain your subscription and app data across reinstalls
 - Crash logs and diagnostics  
 - Device and app performance information
 - Push notification tokens — used to deliver group activity updates and personalized threshold alerts when enabled 
@@ -34,6 +35,7 @@ Node Expense uses the following third-party services:
 - Google AdMob — Banner, Rewarded and interstitial advertisements
 - Firebase Analytics — Anonymous usage analytics
 - Firebase Firestore — Group data syncing (expenses, members, settlements, deletion requests)
+- Firebase Authentication — Anonymous user identification for subscription continuity
 - Firebase Cloud Functions — Background tasks including group deletion and push notification delivery
 - Firebase Cloud Messaging (FCM) — Push notifications for group activity
 
