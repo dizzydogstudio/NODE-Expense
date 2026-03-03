@@ -31,7 +31,7 @@ Purchases and subscriptions are processed by Apple and RevenueCat. We do not rec
 Node Expense uses the following third-party services:
  
 - RevenueCat — Subscription and in-app purchase management, including free trial tracking
-- Google AdMob — Rewarded and interstitial advertisements
+- Google AdMob — Banner, Rewarded and interstitial advertisements
 - Firebase Analytics — Anonymous usage analytics
 - Firebase Firestore — Group data syncing (expenses, members, settlements, deletion requests)
 - Firebase Cloud Functions — Background tasks including group deletion and push notification delivery
