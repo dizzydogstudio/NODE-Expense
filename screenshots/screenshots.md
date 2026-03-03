@@ -1,4 +1,32 @@
-****
+
+
+
+
+
+<img width="1260" height="2736" alt="7  Data Export" src="https://github.com/user-attachments/assets/f6418b6d-c363-4246-92f9-f1dc8da86a2f" />
+<img width="1260" height="2736" alt="6  Data Retention" src="https://github.com/user-attachments/assets/1724e7f0-88f9-4007-b22c-e405b374968b" />
+<img width="1260" height="2736" alt="5  Calendar-Widget" src="https://github.com/user-attachments/assets/7a665b06-7b73-4cd1-b332-bb632988d374" />
+<img width="1260" height="2736" alt="4  Record a payment" src="https://github.com/user-attachments/assets/44f738fb-43a6-43fb-bea0-c197963a1935" />
+<img width="1260" height="2736" alt="3  Calendar" src="https://github.com/user-attachments/assets/9e55cd98-8e22-4ebb-8370-f16d73466a1f" />
+<img width="1260" height="2736" alt="2  Group Charts" src="https://github.com/user-attachments/assets/2d2a2255-3a05-48dd-a638-0ce4744ca2d0" />
+<img width="1260" height="2736" alt="1 2 Recurring Bills" src="https://github.com/user-attachments/assets/e1b928b6-9ec8-4484-a529-c93016a542f6" />
+<img width="1260" height="2736" alt="1 1 Split Bill" src="https://github.com/user-attachments/assets/1bf368aa-24c2-4b3f-b812-1e3a65ba942d" />
+<img width="1260" height="2736" alt="1  Group Summary" src="https://github.com/user-attachments/assets/d4596228-f4b6-4769-b103-9e5449cf990b" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*******************************************
 
 <p align="center">
   <img width="621" height="1344" alt="1  Add new expense" src="https://github.com/user-attachments/assets/2e84d2db-a0b6-4c15-9d63-0ef1312f4c5d" />
