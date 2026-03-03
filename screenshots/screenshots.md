@@ -1,3 +1,21 @@
+
+
+
+
+
+
+
+<img width="1260" height="2736" alt="6  Group Charts" src="https://github.com/user-attachments/assets/61437b10-727c-4d05-8ae7-93bc68dd7165" />
+<img width="1260" height="2736" alt="5  Buddget Planning" src="https://github.com/user-attachments/assets/f68037b0-5f68-4480-922d-ef316d4e3042" />
+<img width="1260" height="2736" alt="4  Recurring Bills" src="https://github.com/user-attachments/assets/e9ae92da-05c9-49ff-ae4c-a7d2f6dac21e" />
+<img width="1260" height="2736" alt="3  Record a payment" src="https://github.com/user-attachments/assets/f8482740-76ed-443b-a1bc-df56343127b9" />
+<img width="1260" height="2736" alt="2  Split Bill" src="https://github.com/user-attachments/assets/39a05c46-265c-4d12-88d5-baf731a74a0b" />
+<img width="1260" height="2736" alt="1  Group Summary" src="https://github.com/user-attachments/assets/d7e7b0f4-7c5d-4a66-969d-438073dda81c" />
+
+
+
+
+
 ****
 
 <p align="center">
@@ -37,25 +55,25 @@
 ****
 
 <p align="center">
-  <img width="1260" height="2736" alt="5  Calendar-Widget" src="https://github.com/user-attachments/assets/7a665b06-7b73-4cd1-b332-bb632988d374" />
+  <img width="1260" height="2736" alt="7  Calendar" src="https://github.com/user-attachments/assets/15a84e9f-a5b2-49aa-9490-d24a102a8a15" />
 </p>
 
 ****
 
 <p align="center">
-  <img width="1260" height="2736" alt="6  Data Retention" src="https://github.com/user-attachments/assets/1724e7f0-88f9-4007-b22c-e405b374968b" />
+  <img width="1260" height="2736" alt="8  Calendar-Widget" src="https://github.com/user-attachments/assets/6b1f8c6d-40f6-4579-bbc3-20c87dc67f53" />
 </p>
 
 ****
 
 <p align="center">
-  <img width="1260" height="2736" alt="7  Data Export" src="https://github.com/user-attachments/assets/f6418b6d-c363-4246-92f9-f1dc8da86a2f" />
+  <img width="1260" height="2736" alt="9  Data Export" src="https://github.com/user-attachments/assets/d331a13c-3f99-45f2-9545-f01502196621" />
 </p>
 
 ****
 
 <p align="center">
-  <img width="621" height="1344" alt="1  Add new expense" src="https://github.com/user-attachments/assets/2e84d2db-a0b6-4c15-9d63-0ef1312f4c5d" />
+  <img width="1260" height="2736" alt="10  Data Retention" src="https://github.com/user-attachments/assets/a7e3784b-4ed6-4a88-858c-528ba54c4224" />
 </p>
 
 ****
