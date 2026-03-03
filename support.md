@@ -1,7 +1,7 @@
 # Support 
 **App Name:** Node Expense: Track Together  
 **Platform:** iOS  
-**Last Updated:** 2026-03-01
+**Last Updated:** 2026-03-03
 
 For help, questions, or feedback, please contact us at:
 **Email:** thedizzydogstudio@gmail.com
