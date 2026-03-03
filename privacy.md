@@ -42,7 +42,7 @@ Node Expense uses the following third-party services:
 Firebase is used as a sync layer for group-related features only. Personal (non-group) expense data is not uploaded to cloud services.
 
 ## 4. Ads  
-Node Expense may show rewarded ads and interstitial ads to free-tier users. Ad providers may collect anonymous identifiers to serve relevant ads and measure performance. Rewarded ads are optional and can unlock additional monthly expense slots. Interstitial ads may be shown when you reach your monthly expense limit.
+Node Expense may show banner ads, rewarded ads and interstitial ads to free-tier users. Ad providers may collect anonymous identifiers to serve relevant ads and measure performance. Rewarded ads are optional and can unlock additional monthly expense slots. Interstitial ads may be shown when you reach your monthly expense limit.
 
 ## 5. Location Data  
 Location data is optional and only collected if you explicitly enable it in Settings for expense tracking. When enabled, your location is recorded with new expenses. Location data is stored locally on your device and is not uploaded to cloud services. You can disable location access at any time in your iOS Settings.
