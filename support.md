@@ -22,3 +22,6 @@ Open the group → Expenses tab → tap "Record a Payment".
 
 **How do I delete a group?**
 Open the group → Settings tab → tap "Delete Group" (admin only).
+
+**How do I edit or delete an expense?**
+Tap the expense you want to edir / delete, swipe left to see Edit & Delete options
