@@ -1,8 +1,4 @@
 
-<img width="1260" height="2736" alt="10  Data Retention" src="https://github.com/user-attachments/assets/43d1c061-ceb4-410e-8801-d9ff28aa7f54" />
-<img width="1260" height="2736" alt="9  Data Export" src="https://github.com/user-attachments/assets/21ebf70a-3259-4a3a-b20c-304f85c8c257" />
-
-
 ****
 
 <p align="center">
@@ -54,13 +50,13 @@
 ****
 
 <p align="center">
-  <img width="1260" height="2736" alt="9  Data Export" src="https://github.com/user-attachments/assets/d331a13c-3f99-45f2-9545-f01502196621" />
+  <img width="1260" height="2736" alt="9  Data Export" src="https://github.com/user-attachments/assets/21ebf70a-3259-4a3a-b20c-304f85c8c257" />
 </p>
 
 ****
 
 <p align="center">
-  <img width="1260" height="2736" alt="10  Data Retention" src="https://github.com/user-attachments/assets/a7e3784b-4ed6-4a88-858c-528ba54c4224" />
+  <img width="1260" height="2736" alt="10  Data Retention" src="https://github.com/user-attachments/assets/43d1c061-ceb4-410e-8801-d9ff28aa7f54" />
 </p>
 
 ****
