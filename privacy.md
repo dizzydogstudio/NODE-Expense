@@ -76,12 +76,11 @@ Cloud sync is used only for group features. Individual personal expenses are nev
 ### 7.3 Encryption & Backups
 - Users with feature access (PRO subscription or active free trial) may enable encrypted backups using AES-256-GCM encryption.
 - You control how long expense records are retained (all time or a limited number of years).
-- The backup encryption key is managed automatically and stored securely in your iCloud Keychain. It is not visible in the Passwords app but will sync to your other devices automatically.
 - Backup files are exported to a location you choose (iCloud Drive, On My Device, or other iOS Files locations).
-- Node Expense does not have access to your backup files or encryption keys.
+- Backup encryption keys are managed automatically and stored exclusively in your iCloud Keychain and are never transmitted to our servers or accessible to us as developers. The key is not visible in the Passwords app but syncs securely to your other devices via iCloud. Only your app, on devices signed into your Apple ID, can access the key to encrypt or restore your backups.
 
 ## 8. Data Migration  
-Users with feature access (PRO subscription or active free trial) may export and import their data in JSON format. Export files may optionally be encrypted using AES-256-GCM. Node Expense does not have access to your exported files. Imported data is stored locally on your device.
+Users with feature access (PRO subscription or active free trial) may export and import their data in JSON format. Node Expense does not have access to your exported files. Exported files are exported to a location you choose (iCloud Drive, On My Device, or other iOS Files locations).
 
 ## 9. Data Deletion 
 You can delete your data in the following ways:
