@@ -19,7 +19,7 @@
 ****
 
 <p align="center">
-  <img width="1260" height="2736" alt="4  Recurring Bills" src="https://github.com/user-attachments/assets/e9ae92da-05c9-49ff-ae4c-a7d2f6dac21e" />
+  <img width="1260" height="2736" alt="4  Recurring Bills" src="https://github.com/user-attachments/assets/d4560bb9-6d3f-4ff2-ae43-defe1d8abe0e" />
 </p>
 
 ****
@@ -37,7 +37,7 @@
 ****
 
 <p align="center">
-  <img width="1260" height="2736" alt="7  Calendar png" src="https://github.com/user-attachments/assets/b7e2b323-7f59-43af-b9ec-caca392e0b70" />
+  <img width="1260" height="2736" alt="7  Calendar png" src="https://github.com/user-attachments/assets/670dedcc-afdd-4946-a712-fa5e6403b27f" />
 </p>
 
 ****
@@ -59,68 +59,3 @@
 </p>
 
 ****
-
-<p align="center">
-  <img width="1260" height="2736" alt="Node Expense - Paywall" src="https://github.com/user-attachments/assets/b88712b4-3e23-45a6-8bd9-9d5c555153ca" />
-</p>
-
-****
-
-<p align="center">
-  <img width="621" height="1344" alt="2  Individual Expense" src="https://github.com/user-attachments/assets/9f075849-84c8-45e6-b506-424ec0b5bfb9" />
-</p>
-
-****
-
-<p align="center">
-  <img width="621" height="1344" alt="3  Groups" src="https://github.com/user-attachments/assets/f1456aa2-aab6-477e-ac53-c1a75a0f297f" />
-</p>
-
-****
-
-<p align="center">
-  <img width="621" height="1344" alt="4  Group - Split Expensepng" src="https://github.com/user-attachments/assets/a8afefc2-0f78-4c91-aa97-a4a68a3e51e2" />
-</p>
-
-****
-
-<p align="center">
-  <img width="621" height="1344" alt="5  Group Summary" src="https://github.com/user-attachments/assets/4f703263-e74b-4b6a-a9f5-c3efd7b223ec" />
-</p>
-
-****
-
-<p align="center">
-  <img width="621" height="1344" alt="6  Group Charts" src="https://github.com/user-attachments/assets/6ec89082-8224-45d9-aa92-e89651801a34" />
-</p>
-
-****
-
-<p align="center">
-  <img width="621" height="1344" alt="7  Calendar View" src="https://github.com/user-attachments/assets/1f489015-b2f3-4469-92b4-f3f72d057b1c" />
-</p>
-
-****
-
-<p align="center">
-  <img width="621" height="1344" alt="7  Calendar View" src="https://github.com/user-attachments/assets/1f489015-b2f3-4469-92b4-f3f72d057b1c" />
-</p>
-
-****
-
-<p align="center">
-  <img width="621" height="1344" alt="8  Calendar Sync" src="https://github.com/user-attachments/assets/c080c8b5-a21d-4fae-bfd8-86c4ac1d6f22" />
-</p>
-
-****
-
-<p align="center">
-  <img width="621" height="1344" alt="9  App Settings" src="https://github.com/user-attachments/assets/bf4a51fd-bcba-49b7-8c5d-f9e8f6d96259" />
-</p>
-
-****
-  <img width="1242" height="2688" alt="10  Apple Review - Node Expense" src="https://github.com/user-attachments/assets/c72bcfe1-75cc-4830-8217-aac4ab5dd002" />
-</p>
-
-****
-
