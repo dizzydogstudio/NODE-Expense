@@ -19,7 +19,7 @@
 ****
 
 <p align="center">
-  <img width="1260" height="2736" alt="4  Recurring Bills" src="https://github.com/user-attachments/assets/d4560bb9-6d3f-4ff2-ae43-defe1d8abe0e" />
+  <img width="1260" height="2736" alt="4  Recurring Bills" src="https://github.com/user-attachments/assets/719548a9-3b90-4250-9ac6-6fbbea83c823" />
 </p>
 
 ****
