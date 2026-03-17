@@ -69,7 +69,8 @@ For group features, selected data is synced to Firebase Firestore so all group m
 - Group settlements (payment records between members)
 - Group deletion requests and member votes
 - Trial start dates (used for reinstall recovery)
-- Push notification tokens (FCM) 
+- Push notification tokens (FCM)
+- Subscription Status: Anonymous identifiers used to verify "Lifetime" or "PRO" status are retained as long as the account is active to ensure service continuity across device reinstalls.
 
 Cloud sync is used only for group features. Individual personal expenses are never uploaded.
 
