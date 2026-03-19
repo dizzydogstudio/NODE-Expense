@@ -3,7 +3,7 @@
 **Platform:** iOS  
 **Last Updated:** 2026-03-03
 
-For help, questions, or feedback, please contact us at:
+For help, questions, or feedback, please contact us at:  
 **Email:** thedizzydogstudio@gmail.com
 
 We typically respond within 1-2 business days.
